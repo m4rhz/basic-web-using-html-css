@@ -12,4 +12,4 @@ The CSS for the site is located in the `styles/style.css` file. You can edit thi
 
 ## Images
 
-The Image file is located in the `images\`
+The Image file is located in the `images`
